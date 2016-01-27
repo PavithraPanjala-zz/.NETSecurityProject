@@ -1,0 +1,17 @@
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\SalesWS\bin\SalesWS.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\SalesWS\bin\SalesWS.pdb
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\SalesWS\bin\MySql.Data.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\SalesWS\obj\Debug\SalesWS.csprojResolveAssemblyReference.cache
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\SalesWS\obj\Debug\SalesWS.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\SalesWS\obj\Debug\SalesWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\SalesWS\bin\SalesWS.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\SalesWS\bin\SalesWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\SalesWS\bin\SalesWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\SalesWS\obj\Debug\SalesWS.csprojResolveAssemblyReference.cache
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\SalesWS\obj\Debug\SalesWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\SalesWS\obj\Debug\SalesWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\SalesWS\bin\SalesWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\SalesWS\bin\SalesWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\SalesWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\SalesWS\obj\Debug\SalesWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\SalesWS\obj\Debug\SalesWS.pdb

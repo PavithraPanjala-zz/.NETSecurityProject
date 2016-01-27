@@ -1,0 +1,16 @@
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\EmployeeCount\bin\EmployeeCount.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\EmployeeCount\bin\EmployeeCount.pdb
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\EmployeeCount\obj\Debug\EmployeeCount.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\EmployeeCount\obj\Debug\EmployeeCount.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\EmployeeCount\bin\EmployeeCount.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\EmployeeCount\bin\EmployeeCount.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\EmployeeCount\bin\EmployeeCount.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\EmployeeCount\obj\Debug\EmployeeCount.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\EmployeeCount\obj\Debug\EmployeeCount.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\EmployeeCount\obj\Debug\EmployeeCountWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeCount\bin\EmployeeCount.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeCount\bin\EmployeeCount.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeCount\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeCount\obj\Debug\EmployeeCountWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeCount\obj\Debug\EmployeeCount.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeCount\obj\Debug\EmployeeCount.pdb

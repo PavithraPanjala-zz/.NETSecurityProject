@@ -1,0 +1,6 @@
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeInformationWS\bin\EmployeeInformationWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeInformationWS\bin\EmployeeInformationWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeInformationWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeInformationWS\obj\Debug\EmployeeInformationWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeInformationWS\obj\Debug\EmployeeInformationWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\EmployeeInformationWS\obj\Debug\EmployeeInformationWS.pdb

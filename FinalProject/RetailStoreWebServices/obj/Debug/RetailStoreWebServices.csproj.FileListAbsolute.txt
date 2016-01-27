@@ -1,0 +1,16 @@
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RetailStoreWebServices\bin\RetailStoreWebServices.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RetailStoreWebServices\bin\RetailStoreWebServices.pdb
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RetailStoreWebServices\bin\MySql.Data.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RetailStoreWebServices\obj\Debug\RetailStoreWebServices.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RetailStoreWebServices\obj\Debug\RetailStoreWebServices.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RetailStoreWebServices\bin\RetailStoreWebServices.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RetailStoreWebServices\bin\RetailStoreWebServices.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RetailStoreWebServices\bin\RetailStoreWebServices.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RetailStoreWebServices\obj\Debug\RetailStoreWebServices.csprojResolveAssemblyReference.cache
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RetailStoreWebServices\obj\Debug\RetailStoreWebServices.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RetailStoreWebServices\obj\Debug\RetailStoreWebServices.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RetailStoreWebServices\bin\RetailStoreWebServices.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RetailStoreWebServices\bin\RetailStoreWebServices.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RetailStoreWebServices\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RetailStoreWebServices\obj\Debug\RetailStoreWebServices.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RetailStoreWebServices\obj\Debug\RetailStoreWebServices.pdb

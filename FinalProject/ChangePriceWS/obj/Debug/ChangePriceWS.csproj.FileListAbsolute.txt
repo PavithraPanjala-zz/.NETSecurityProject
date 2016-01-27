@@ -1,0 +1,16 @@
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\ChangePriceWS\bin\ChangePriceWS.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\ChangePriceWS\bin\ChangePriceWS.pdb
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\ChangePriceWS\bin\MySql.Data.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\ChangePriceWS\obj\Debug\ChangePriceWS.csprojResolveAssemblyReference.cache
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\ChangePriceWS\obj\Debug\ChangePriceWS.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\ChangePriceWS\obj\Debug\ChangePriceWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ChangePriceWS\bin\ChangePriceWS.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ChangePriceWS\bin\ChangePriceWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ChangePriceWS\bin\ChangePriceWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ChangePriceWS\obj\Debug\ChangePriceWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ChangePriceWS\obj\Debug\ChangePriceWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ChangePriceWS\bin\ChangePriceWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ChangePriceWS\bin\ChangePriceWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ChangePriceWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ChangePriceWS\obj\Debug\ChangePriceWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ChangePriceWS\obj\Debug\ChangePriceWS.pdb

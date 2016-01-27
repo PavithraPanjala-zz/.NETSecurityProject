@@ -1,0 +1,12 @@
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddItemWS\bin\AddItemWS.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddItemWS\bin\AddItemWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddItemWS\bin\AddItemWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddItemWS\bin\MySql.Data.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddItemWS\obj\Debug\AddItemWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddItemWS\obj\Debug\AddItemWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddItemWS\obj\Debug\AddItemWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddItemWS\bin\AddItemWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddItemWS\bin\AddItemWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddItemWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddItemWS\obj\Debug\AddItemWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddItemWS\obj\Debug\AddItemWS.pdb

@@ -1,0 +1,13 @@
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemListWS\bin\ItemListWS.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemListWS\bin\ItemListWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemListWS\bin\ItemListWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemListWS\bin\MySql.Data.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemListWS\obj\Debug\ItemListWS.csprojResolveAssemblyReference.cache
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemListWS\obj\Debug\ItemListWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemListWS\obj\Debug\ItemListWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemListWS\ItemListWS\bin\ItemListWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemListWS\ItemListWS\bin\ItemListWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemListWS\ItemListWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemListWS\ItemListWS\obj\Debug\ItemListWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemListWS\ItemListWS\obj\Debug\ItemListWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemListWS\ItemListWS\obj\Debug\ItemListWS.pdb

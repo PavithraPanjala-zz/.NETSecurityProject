@@ -1,0 +1,5 @@
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\SalesInformationWS\bin\SalesInformationWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\SalesInformationWS\bin\SalesInformationWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\SalesInformationWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\SalesInformationWS\obj\Debug\SalesInformationWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\SalesInformationWS\obj\Debug\SalesInformationWS.pdb

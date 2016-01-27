@@ -1,0 +1,13 @@
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\MonthlyPayrollWS\bin\MonthlyPayrollWS.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\MonthlyPayrollWS\bin\MonthlyPayrollWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\MonthlyPayrollWS\bin\MonthlyPayrollWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\MonthlyPayrollWS\bin\MySql.Data.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\MonthlyPayrollWS\obj\Debug\MonthlyPayrollWS.csprojResolveAssemblyReference.cache
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\MonthlyPayrollWS\obj\Debug\MonthlyPayrollWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\MonthlyPayrollWS\obj\Debug\MonthlyPayrollWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\MonthlyPayrollWS\bin\MonthlyPayrollWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\MonthlyPayrollWS\bin\MonthlyPayrollWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\MonthlyPayrollWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\MonthlyPayrollWS\obj\Debug\MonthlyPayrollWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\MonthlyPayrollWS\obj\Debug\MonthlyPayrollWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\MonthlyPayrollWS\obj\Debug\MonthlyPayrollWS.pdb

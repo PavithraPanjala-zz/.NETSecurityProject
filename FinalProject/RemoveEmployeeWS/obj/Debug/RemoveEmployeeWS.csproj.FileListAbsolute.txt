@@ -1,0 +1,18 @@
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RemoveEmployeeWS\bin\RemoveEmployeeWS.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RemoveEmployeeWS\bin\RemoveEmployeeWS.pdb
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RemoveEmployeeWS\bin\MySql.Data.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RemoveEmployeeWS\obj\Debug\RemoveEmployeeWS.csprojResolveAssemblyReference.cache
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RemoveEmployeeWS\obj\Debug\RemoveEmployeeWS.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\RemoveEmployeeWS\obj\Debug\RemoveEmployeeWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RemoveEmployeeWS\bin\RemoveEmployeeWS.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RemoveEmployeeWS\bin\RemoveEmployeeWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RemoveEmployeeWS\bin\RemoveEmployeeWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RemoveEmployeeWS\obj\Debug\RemoveEmployeeWS.csprojResolveAssemblyReference.cache
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RemoveEmployeeWS\obj\Debug\RemoveEmployeeWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\RemoveEmployeeWS\obj\Debug\RemoveEmployeeWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RemoveEmployeeWS\bin\RemoveEmployeeWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RemoveEmployeeWS\bin\RemoveEmployeeWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RemoveEmployeeWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RemoveEmployeeWS\obj\Debug\RemoveEmployeeWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RemoveEmployeeWS\obj\Debug\RemoveEmployeeWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\RemoveEmployeeWS\obj\Debug\RemoveEmployeeWS.pdb

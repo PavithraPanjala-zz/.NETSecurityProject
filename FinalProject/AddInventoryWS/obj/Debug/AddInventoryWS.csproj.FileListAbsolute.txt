@@ -1,0 +1,18 @@
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\AddInventoryWS\bin\AddInventoryWS.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\AddInventoryWS\bin\AddInventoryWS.pdb
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\AddInventoryWS\bin\MySql.Data.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\AddInventoryWS\obj\Debug\AddInventoryWS.csprojResolveAssemblyReference.cache
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\AddInventoryWS\obj\Debug\AddInventoryWS.dll
+c:\users\bkongara\documents\visual studio 2012\Projects\RetailStoreManagement\AddInventoryWS\obj\Debug\AddInventoryWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddInventoryWS\bin\AddInventoryWS.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddInventoryWS\bin\AddInventoryWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddInventoryWS\bin\AddInventoryWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddInventoryWS\obj\Debug\AddInventoryWS.csprojResolveAssemblyReference.cache
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddInventoryWS\obj\Debug\AddInventoryWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddInventoryWS\obj\Debug\AddInventoryWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddInventoryWS\bin\AddInventoryWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddInventoryWS\bin\AddInventoryWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddInventoryWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddInventoryWS\obj\Debug\AddInventoryWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddInventoryWS\obj\Debug\AddInventoryWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddInventoryWS\obj\Debug\AddInventoryWS.pdb

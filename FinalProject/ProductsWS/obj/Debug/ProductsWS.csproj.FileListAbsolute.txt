@@ -1,0 +1,5 @@
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ProductsWS\bin\ProductsWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ProductsWS\bin\ProductsWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ProductsWS\obj\Debug\ProductsWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ProductsWS\obj\Debug\ProductsWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ProductsWS\obj\Debug\ProductsWS.pdb

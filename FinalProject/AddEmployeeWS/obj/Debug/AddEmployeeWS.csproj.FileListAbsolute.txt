@@ -1,0 +1,13 @@
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddEmployeeWS\bin\AddEmployeeWS.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddEmployeeWS\bin\AddEmployeeWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddEmployeeWS\bin\AddEmployeeWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddEmployeeWS\bin\MySql.Data.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddEmployeeWS\obj\Debug\AddEmployeeWS.csprojResolveAssemblyReference.cache
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddEmployeeWS\obj\Debug\AddEmployeeWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\AddEmployeeWS\obj\Debug\AddEmployeeWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddEmployeeWS\bin\AddEmployeeWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddEmployeeWS\bin\AddEmployeeWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddEmployeeWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddEmployeeWS\obj\Debug\AddEmployeeWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddEmployeeWS\obj\Debug\AddEmployeeWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\AddEmployeeWS\obj\Debug\AddEmployeeWS.pdb

@@ -1,0 +1,12 @@
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemInventoryWS\bin\ItemInventoryWS.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemInventoryWS\bin\ItemInventoryWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemInventoryWS\bin\ItemInventoryWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemInventoryWS\bin\MySql.Data.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemInventoryWS\obj\Debug\ItemInventoryWS.csprojResolveAssemblyReference.cache
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemInventoryWS\obj\Debug\ItemInventoryWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\ItemInventoryWS\obj\Debug\ItemInventoryWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemInventoryWS\bin\ItemInventoryWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemInventoryWS\bin\ItemInventoryWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemInventoryWS\obj\Debug\ItemInventoryWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemInventoryWS\obj\Debug\ItemInventoryWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\ItemInventoryWS\obj\Debug\ItemInventoryWS.pdb

@@ -1,0 +1,13 @@
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\StoreTransferWS\bin\StoreTransferWS.dll.config
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\StoreTransferWS\bin\StoreTransferWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\StoreTransferWS\bin\StoreTransferWS.pdb
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\StoreTransferWS\bin\MySql.Data.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\StoreTransferWS\obj\Debug\InventoryTransferWS.csprojResolveAssemblyReference.cache
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\StoreTransferWS\obj\Debug\StoreTransferWS.dll
+C:\Users\kahmed\Documents\Visual Studio 2013\Projects\RetailStoreManagement\StoreTransferWS\obj\Debug\StoreTransferWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\StoreTransferWS\bin\StoreTransferWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\StoreTransferWS\bin\StoreTransferWS.pdb
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\StoreTransferWS\bin\MySql.Data.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\StoreTransferWS\obj\Debug\InventoryTransferWS.csprojResolveAssemblyReference.cache
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\StoreTransferWS\obj\Debug\StoreTransferWS.dll
+C:\Users\bkongara\Desktop\RetailStoreManagement\RetailStoreManagement\StoreTransferWS\obj\Debug\StoreTransferWS.pdb
